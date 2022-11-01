@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" hre=""C:\Users\Charly Arias\Desktop\Practica5_A180068'\ejemplo2.xsl"?>
+<motos>
+<motocicletas>
+ <marca>Italika</marca>
+ <modelo>RT200</modelo>
+</motocicletas>
+<motocicleta>
+ <marca>BAJAJ</marca>
+ <modelo>Pulsar NS 200</modelo>
+</motocicleta>
+<motocicleta>
+ <marca>Carabela</marca>
+ <modelo>R8S</modelo>
+</motocicleta>
+</motos>
